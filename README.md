@@ -1,26 +1,19 @@
-## Olá, sou Eliane!!
+## Olá, eu sou a Eliane! 👋  
 
-🚀 Apaixonada por tecnologia, esportes, viagens e descobrir novas culturas, estou atualmente em transição de carreira para a área de Tecnologia.
+🚀 Apaixonada por tecnologia, esportes, viagens e novas culturas, estou em transição de carreira para a área de Tecnologia, sempre em busca de aprendizado e desafios que impulsionem meu crescimento profissional.  
 
-🎓 No 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Estácio, minha dedicação e empenho são evidentes na busca constante por aprendizado e no desejo de enfrentar novos desafios.
+🎓 Sou formada em **Análise e Desenvolvimento de Sistemas** pela Estácio e tenho um forte compromisso com a evolução contínua na área de desenvolvimento.  
 
-💻 Sou uma estudante dedicada de programação, com foco em:
-- Java
-- Python
-- Flask
-- Rest API
-- JavaScript
-- HTML
-- CSS
-- Dart
-- Flutter
+💻 Atualmente, estudo e aprimoro minhas habilidades em:  
+- **Linguagens:** C, Java, Python, JavaScript, Dart  
+- **Frameworks e Tecnologias:** Flask, REST API, Flutter  
+- **Desenvolvimento Web:** HTML, CSS  
 
-🔧 Além disso, possuo conhecimentos em ferramentas como Git e Scrum.
+🔧 Também possuo experiência com ferramentas e metodologias como **Git** e **Scrum**, essenciais para o trabalho em equipe e o desenvolvimento ágil.  
 
-💼 Estagiei por 6 meses na AGU (Advocacia Geral da União), onde tive a oportunidade de aplicar meus conhecimentos e aprender mais sobre o ambiente de desenvolvimento profissional.
+💼 Durante meu estágio de 6 meses na **AGU (Advocacia-Geral da União)**, tive a oportunidade de aplicar meus conhecimentos na prática e ganhar experiência em um ambiente profissional desafiador.  
 
-🎯 Meu objetivo é avançar na carreira, absorver experiência e conhecimento, consolidando-me como uma desenvolvedora habilidosa. Estou pronta para enfrentar os desafios que a tecnologia oferece e continuar crescendo profissionalmente.
-
+🎯 Meu objetivo é crescer como desenvolvedora, consolidando minhas habilidades e adquirindo novas experiências. Estou sempre pronta para encarar os desafios da tecnologia e evoluir profissionalmente! 🚀
 <div>
   <a href="https://github.com/Eliane-orlandin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliane-orlandin&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
