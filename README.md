@@ -1,12 +1,15 @@
 ## Olá, eu sou a Eliane! 👋  
 
-🚀 Apaixonada por tecnologia, esportes, viagens e novas culturas, estou em transição de carreira para a área de Tecnologia, sempre em busca de aprendizado e desafios que impulsionem meu crescimento profissional.  
+🚀 Apaixonada por tecnologia, esportes, viagens e novas culturas, estou em transição de carreira para a área de Tecnologia, sempre em busca de aprendizado e desafios que impulsionem meu crescimento profissional.  Atualmente, estou empenhada em estudar **Engenharia de Prompts e IA com Agents**, áreas que me fascinam e têm ampliado minha visão sobre o potencial da inteligência artificial na solução de problemas reais.
 
 🎓 Sou formada em **Análise e Desenvolvimento de Sistemas** pela Estácio e tenho um forte compromisso com a evolução contínua na área de desenvolvimento.  
 
 💻 Atualmente, estudo e aprimoro minhas habilidades em:  
-- **Linguagens:** C, Java, Python, JavaScript, Dart  
-- **Frameworks e Tecnologias:** Flask, REST API, Flutter  
+- **Linguagens:** Python (foco atual), C, Java,  JavaScript, Dart  
+- **Frameworks e Tecnologias:** Flask, REST API, Flutter
+- **Análise de Dados e IA:** Pandas, Matplotlib, Google Looker Studio, fundamentos de
+agentes autônomos (AI Agents)
+- **Banco de Dados:** SQL (básico), modelagem relacional
 - **Desenvolvimento Web:** HTML, CSS  
 
 🔧 Também possuo experiência com ferramentas e metodologias como **Git** e **Scrum**, essenciais para o trabalho em equipe e o desenvolvimento ágil.  
