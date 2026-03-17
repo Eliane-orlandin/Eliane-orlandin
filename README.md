@@ -5,7 +5,7 @@
 🎓 Sou formada em **Análise e Desenvolvimento de Sistemas** pela Estácio e tenho um forte compromisso com a evolução contínua na área de desenvolvimento.  
 
 💻 Atualmente, estudo e aprimoro minhas habilidades em:  
-- **Linguagens:** Python (foco atual), C, Java,  JavaScript, Dart  
+- **Linguagens:** Java (foco atual), C, Python,  JavaScript, Dart  
 - **Frameworks e Tecnologias:** Flask, REST API, Flutter
 - **Análise de Dados e IA:** Pandas, Matplotlib, Google Looker Studio, fundamentos de
 agentes autônomos (AI Agents)
