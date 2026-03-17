@@ -1,10 +1,16 @@
-## Olá, eu sou a Eliane! 👋  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=20&width=500&lines=Olá,+eu+sou+a+Eliane+👋) 
 
-🚀 Apaixonada por tecnologia, esportes, viagens e novas culturas, estou em transição de carreira para a área de Tecnologia, sempre em busca de aprendizado e desafios que impulsionem meu crescimento profissional.  Atualmente, estou empenhada em estudar **Engenharia de Prompts e IA com Agents**, áreas que me fascinam e têm ampliado minha visão sobre o potencial da inteligência artificial na solução de problemas reais.
+Desenvolvedora em transição de carreira, com foco em **Back-end, Inteligência Artificial e Análise de Dados**.
 
-🎓 Sou formada em **Análise e Desenvolvimento de Sistemas** pela Estácio e tenho um forte compromisso com a evolução contínua na área de desenvolvimento.  
+Apaixonada por tecnologia, esportes, viagens e novas culturas, estou sempre em busca de aprendizado e desafios que impulsionem meu crescimento profissional.
 
-💻 Atualmente, estudo e aprimoro minhas habilidades em:  
+Atualmente, concentro meus estudos em **Java para desenvolvimento back-end**, enquanto aprofundo meus conhecimentos em **Engenharia de Prompts e IA com Agents**, explorando soluções inteligentes para problemas reais.
+
+Sou formada em **Análise e Desenvolvimento de Sistemas pela Estácio** e tenho forte compromisso com evolução contínua.
+
+
+### Tecnologias e Estudos 
+
 - **Linguagens:** Java (foco atual), C, Python,  JavaScript, Dart  
 - **Frameworks e Tecnologias:** Flask, REST API, Flutter
 - **Análise de Dados e IA:** Pandas, Matplotlib, Google Looker Studio, fundamentos de
@@ -12,16 +18,19 @@ agentes autônomos (AI Agents)
 - **Banco de Dados:** SQL (básico), modelagem relacional
 - **Desenvolvimento Web:** HTML, CSS  
 
-🔧 Também possuo experiência com ferramentas e metodologias como **Git** e **Scrum**, essenciais para o trabalho em equipe e o desenvolvimento ágil.  
+Experiência com **Git e Scrum**, voltados para colaboração e desenvolvimento ágil.
 
-💼 Durante meu estágio de 6 meses na **AGU (Advocacia-Geral da União)**, tive a oportunidade de aplicar meus conhecimentos na prática e ganhar experiência em um ambiente profissional desafiador.  
+Meu objetivo é crescer como desenvolvedora, consolidando minhas habilidades e adquirindo novas experiências. Estou sempre pronta para encarar os desafios da tecnologia e evoluir profissionalmente! 
 
-🎯 Meu objetivo é crescer como desenvolvedora, consolidando minhas habilidades e adquirindo novas experiências. Estou sempre pronta para encarar os desafios da tecnologia e evoluir profissionalmente! 🚀
+### Minhas contribuições
+
+![Snake animation](https://github.com/Eliane-orlandin/Eliane-orlandin/blob/output/github-contribution-grid-snake.svg)
 <div>
   <a href="https://github.com/Eliane-orlandin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliane-orlandin&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliane-orlandin&layout=compact&langs_count=16&theme=ambient_gradient"/>    
 </div>
+
 
 <div>
   <div style="display: inline_block"><br>
