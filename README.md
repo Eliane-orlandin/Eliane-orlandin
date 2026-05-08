@@ -1,18 +1,23 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=20&width=500&lines=Olá,+eu+sou+a+Eliane+👋) 
+<div align="center">
 
-Desenvolvedora em transição de carreira, com foco em **Back-end, Inteligência Artificial e Análise de Dados**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
 
-Apaixonada por tecnologia, esportes, viagens e novas culturas, estou sempre em busca de aprendizado e desafios que impulsionem meu crescimento profissional.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&width=500&lines=Olá,+eu+sou+a+Eliane+👋) 
+--
+</div>
 
-Atualmente, concentro meus estudos em **Java para desenvolvimento back-end**, enquanto aprofundo meus conhecimentos em **Engenharia de Prompts e IA com Agents**, explorando soluções inteligentes para problemas reais.
+Desenvolvedora em transição de carreira, com foco em desenvolvimento **Back-end com Java, Inteligência Artificial baseada em Multi Agents e Análise de Dados**.
 
-Sou formada em **Análise e Desenvolvimento de Sistemas pela Estácio** e tenho forte compromisso com evolução contínua.
+Atualmente, concentro meus estudos em Java para desenvolvimento back-end, enquanto aprofundo meus conhecimentos em Engenharia de Prompts e sistemas de IA com Agents, explorando soluções inteligentes voltadas para problemas reais e automação de processos.
 
+Sou formada em Análise e Desenvolvimento de Sistemas pela Estácio e tenho forte compromisso com aprendizado contínuo, evolução técnica e construção de projetos práticos.
+
+---
 
 ### Tecnologias e Estudos 
 
 - **Linguagens:** Java (foco atual), C, Python,  JavaScript, Dart  
-- **Frameworks e Tecnologias:** Flask, REST API, Flutter
+- **Frameworks e Tecnologias:** Antigravity (AI Agents Framework), Flask, REST API, Flutter
 - **Análise de Dados e IA:** Pandas, Matplotlib, Google Looker Studio, fundamentos de
 agentes autônomos (AI Agents)
 - **Banco de Dados:** SQL (básico), modelagem relacional
@@ -22,23 +27,31 @@ Experiência com **Git e Scrum**, voltados para colaboração e desenvolvimento 
 
 Meu objetivo é crescer como desenvolvedora, consolidando minhas habilidades e adquirindo novas experiências. Estou sempre pronta para encarar os desafios da tecnologia e evoluir profissionalmente! 
 
+--- 
+
 ### Minhas contribuições
 
 ![Snake animation](https://github.com/Eliane-orlandin/Eliane-orlandin/blob/output/github-contribution-grid-snake.svg)
-<div>
-  <a href="https://github.com/Eliane-orlandin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliane-orlandin&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliane-orlandin&layout=compact&langs_count=16&theme=ambient_gradient"/>    
-</div>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql,git,github"/>
 
-##
+---
 
 ### Contato
-<div>
-  <a href="https://www.linkedin.com/in/eliane-orlandin-do-carmo-551b92246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:liorlandin33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/eliane-orlandin-do-carmo-551b92246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href = "mailto:liorlandin33@gmail.com"><img src="https://img.shields.io/badge/Email-BA55D3?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 
-##
+<div align="center">
+
+💜 Obrigada por visitar meu perfil 💜
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
 
