@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffaa33&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&width=500&lines=Olá,+eu+sou+a+Eliane+👋) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F00&size=32&width=500&lines=Olá,+eu+sou+a+Eliane+👋) 
 --
 </div>
 
@@ -42,16 +42,16 @@ Meu objetivo é crescer como desenvolvedora, consolidando minhas habilidades e a
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/eliane-orlandin-do-carmo-551b92246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/eliane-orlandin-do-carmo-551b92246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ff9500?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href = "mailto:liorlandin33@gmail.com"><img src="https://img.shields.io/badge/Email-BA55D3?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href = "mailto:liorlandin33@gmail.com"><img src="https://img.shields.io/badge/Email-ff9500?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 
 <div align="center">
 
-💜 Obrigada por visitar meu perfil 💜
+🧡 Obrigada por visitar meu perfil 🧡
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffaa33&height=120&section=footer"/>
 
