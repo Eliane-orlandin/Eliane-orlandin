@@ -6,24 +6,36 @@
 --
 </div>
 
-Desenvolvedora em transição de carreira, com foco em desenvolvimento **Back-end com Java, Inteligência Artificial baseada em Multi Agents e Análise de Dados**.
+Desenvolvedora de Software com foco em **Engenharia de IA** e **Sistemas Multiagentes**.
 
-Atualmente, concentro meus estudos em Java para desenvolvimento back-end, enquanto aprofundo meus conhecimentos em Engenharia de Prompts e sistemas de IA com Agents, explorando soluções inteligentes voltadas para problemas reais e automação de processos.
+Minha trajetória profissional me ensinou muito sobre resolução de problemas sob pressão e foco na experiência do usuário durante meus anos atuando na gastronomia. Hoje, trago essa mesma visão sistêmica para o universo da tecnologia.
 
-Sou formada em Análise e Desenvolvimento de Sistemas pela Estácio e tenho forte compromisso com aprendizado contínuo, evolução técnica e construção de projetos práticos.
+Após um período de imersão focado em consolidar minha base em Engenharia de Software e arquitetura Back-end (especialmente com Java), estou direcionando 100% dos meus estudos para o ecossistema de **Inteligência Artificial Generativa e LLMs**. Meu objetivo atual é unir a robustez do desenvolvimento tradicional com a inovação da IA, construindo agentes autônomos escaláveis, confiáveis e prontos para produção.
+
+Sou formada em Análise e Desenvolvimento de Sistemas pela Estácio, apaixonada por arquitetura de software aplicada à IA, e estou em busca de oportunidades (como programas de residência e pesquisa) onde eu possa aplicar e expandir meus conhecimentos em problemas complexos do mundo real.
+
 
 ---
 
-### Tecnologias e Estudos 
+### 🤖 Projeto em Destaque
 
-- **Linguagens:** Java (foco atual), C, Python,  JavaScript, Dart  
-- **Frameworks e Tecnologias:** Antigravity (AI Agents Framework), Flask, REST API, Flutter
-- **Análise de Dados e IA:** Pandas, Matplotlib, Google Looker Studio, fundamentos de
-agentes autônomos (AI Agents)
-- **Banco de Dados:** SQL (básico), modelagem relacional
-- **Desenvolvimento Web:** HTML, CSS  
+* **[ia-project-agent](https://github.com/Eliane-orlandin/ia-project-agent):** Laboratório prático focado na orquestração e comparação de Agentes de IA. O projeto explora frameworks modernos como **LangChain, LlamaIndex e CrewAI** para resolver problemas em domínios específicos (pesquisa, planejamento e mercado imobiliário). Inclui experimentações com LLMs rodando localmente (Ollama e LM Studio) focando em privacidade e otimização de infraestrutura.
 
-Experiência com **Git e Scrum**, voltados para colaboração e desenvolvimento ágil.
+---
+
+### 🧠 Ecossistema de IA & Tecnologias
+
+- **Inteligência Artificial:** Engenharia de Prompts, Orquestração de Agentes (LangChain, LlamaIndex, CrewAI), Modelos Locais (Ollama, LM Studio), Framework Antigravity.
+- **Linguagens:** Python (Foco em IA), Java (Foco em arquitetura Back-end), C, JavaScript, Dart.
+- **Engenharia de Software:** Criação de APIs REST, Flask, GraphQL, versionamento com Git/GitHub e práticas ágeis (Scrum).
+- **Dados:** Pandas, Matplotlib, SQL (básico), modelagem relacional e Google Looker Studio.
+- Experiência com **Git e Scrum**, voltados para colaboração e desenvolvimento ágil.
+
+---
+
+### 🌎 Idiomas
+
+- **Inglês:** Intermediário para leitura (Estudando ativamente e aprimorando através do British Council).
 
 Meu objetivo é crescer como desenvolvedora, consolidando minhas habilidades e adquirindo novas experiências. Estou sempre pronta para encarar os desafios da tecnologia e evoluir profissionalmente! 
 
@@ -45,6 +57,7 @@ Meu objetivo é crescer como desenvolvedora, consolidando minhas habilidades e a
   <a href="https://www.linkedin.com/in/eliane-orlandin-do-carmo-551b92246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ff9500?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href = "mailto:liorlandin33@gmail.com"><img src="https://img.shields.io/badge/Email-ff9500?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <div align="center">
