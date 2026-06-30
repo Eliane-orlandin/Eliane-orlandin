@@ -12,7 +12,7 @@ Minha trajetória profissional me ensinou muito sobre resolução de problemas s
 
 Após um período de imersão focado em consolidar minha base em Engenharia de Software e arquitetura Back-end (especialmente com Java), estou direcionando 100% dos meus estudos para o ecossistema de **Inteligência Artificial Generativa e LLMs**. Meu objetivo atual é unir a robustez do desenvolvimento tradicional com a inovação da IA, construindo agentes autônomos escaláveis, confiáveis e prontos para produção.
 
-Sou formada em Análise e Desenvolvimento de Sistemas pela Estácio, apaixonada por arquitetura de software aplicada à IA, e estou em busca de oportunidades (como programas de residência e pesquisa) onde eu possa aplicar e expandir meus conhecimentos em problemas complexos do mundo real.
+Sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por arquitetura de software aplicada à IA, e estou em busca de oportunidades onde eu possa aplicar e expandir meus conhecimentos em problemas complexos do mundo real.
 
 
 ---
@@ -20,6 +20,8 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela Estácio, apaixonada 
 ### 🤖 Projeto em Destaque
 
 * **[ia-project-agent](https://github.com/Eliane-orlandin/ia-project-agent):** Laboratório prático focado na orquestração e comparação de Agentes de IA. O projeto explora frameworks modernos como **LangChain, LlamaIndex e CrewAI** para resolver problemas em domínios específicos (pesquisa, planejamento e mercado imobiliário). Inclui experimentações com LLMs rodando localmente (Ollama e LM Studio) focando em privacidade e otimização de infraestrutura.
+  
+* **[programaria](https://github.com/Eliane-orlandin/programaria) :** Repositório educacional criado durante atividades da iniciativa PrograMaria, voltado para práticas em **Python aplicado à análise de dados**. Ele reúne notebooks, exercícios, conjuntos de dados e projetos autorais que ajudam a consolidar fundamentos de programação e ciência de dados. O trabalho utiliza ferramentas como **Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQLite3, DBeaver e Looker Studio**, oferecendo uma base para quem deseja explorar o universo da análise de dados. 
 
 ---
 
