@@ -6,40 +6,19 @@
 --
 </div>
 
-Desenvolvedora de Software com foco em **Engenharia de IA** e **Sistemas Multiagentes**.
+Desenvolvedora de Software focada em Engenharia de IA e Sistemas Multiagentes. Formada em Análise e Desenvolvimento de Sistemas e **atualmente Residente em IA (Instituto Eldorado / UnB)**.
 
-Minha trajetória profissional me ensinou muito sobre resolução de problemas sob pressão e foco na experiência do usuário durante meus anos atuando na gastronomia. Hoje, trago essa mesma visão sistêmica para o universo da tecnologia.
+Com base em arquitetura Back-end e vivência em ambientes dinâmicos, hoje meu foco de estudo e atuação envolve Machine Learning, IA Generativa e LLMs. Meu objetivo é aplicar essas tecnologias para construir agentes autônomos escaláveis e confiáveis para problemas complexos.
 
-Após um período de imersão focado em consolidar minha base em Engenharia de Software e arquitetura Back-end (especialmente com Java), estou direcionando 100% dos meus estudos para o ecossistema de **Inteligência Artificial Generativa e LLMs**. Meu objetivo atual é unir a robustez do desenvolvimento tradicional com a inovação da IA, construindo agentes autônomos escaláveis, confiáveis e prontos para produção.
+🛠️ **Tecnologias & Skills**
 
-Sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por arquitetura de software aplicada à IA, e estou em busca de oportunidades onde eu possa aplicar e expandir meus conhecimentos em problemas complexos do mundo real.
+**IA & Agentes:** LangChain, LlamaIndex, CrewAI, Ollama, Engenharia de Prompts.
 
+**Linguagens:** Python, Java, C, JavaScript, Dart.
 
----
+**Engenharia & Dados:** APIs REST, Flask, Pandas, SQL, Git, Scrum.
 
-### 🤖 Projeto em Destaque
-
-* **[ia-project-agent](https://github.com/Eliane-orlandin/ia-project-agent):** Laboratório prático focado na orquestração e comparação de Agentes de IA. O projeto explora frameworks modernos como **LangChain, LlamaIndex e CrewAI** para resolver problemas em domínios específicos (pesquisa, planejamento e mercado imobiliário). Inclui experimentações com LLMs rodando localmente (Ollama e LM Studio) focando em privacidade e otimização de infraestrutura.
-  
-* **[programaria](https://github.com/Eliane-orlandin/programaria) :** Repositório educacional criado durante atividades da iniciativa PrograMaria, voltado para práticas em **Python aplicado à análise de dados**. Ele reúne notebooks, exercícios, conjuntos de dados e projetos autorais que ajudam a consolidar fundamentos de programação e ciência de dados. O trabalho utiliza ferramentas como **Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQLite3, DBeaver e Looker Studio**, oferecendo uma base para quem deseja explorar o universo da análise de dados. 
-
----
-
-### 🧠 Ecossistema de IA & Tecnologias
-
-- **Inteligência Artificial:** Engenharia de Prompts, Orquestração de Agentes (LangChain, LlamaIndex, CrewAI), Modelos Locais (Ollama, LM Studio), Framework Antigravity.
-- **Linguagens:** Python (Foco em IA), Java (Foco em arquitetura Back-end), C, JavaScript, Dart.
-- **Engenharia de Software:** Criação de APIs REST, Flask, GraphQL, versionamento com Git/GitHub e práticas ágeis (Scrum).
-- **Dados:** Pandas, Matplotlib, SQL (básico), modelagem relacional e Google Looker Studio.
-- Experiência com **Git e Scrum**, voltados para colaboração e desenvolvimento ágil.
-
----
-
-### 🌎 Idiomas
-
-- **Inglês:** Intermediário para leitura (Estudando ativamente e aprimorando através do British Council).
-
-Meu objetivo é crescer como desenvolvedora, consolidando minhas habilidades e adquirindo novas experiências. Estou sempre pronta para encarar os desafios da tecnologia e evoluir profissionalmente! 
+**Idiomas:** Inglês (Intermediário).
 
 --- 
 
